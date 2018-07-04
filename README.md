@@ -1,1 +1,4 @@
-# tech-jobs
+
+This report provides an exploratory analysis of tech/data-related jobs in the United States, exclusively measured from H-1b Visa applications (2011-2016). The dataset could be found here: https://www.kaggle.com/nsharan/h-1b-visa
+
+The H-1B visa is a highly regulated, employer sponsored, temporary work visa that allows foreign workers of specialized fields to work in the United States. The U.S. Deptartment of Labor strictly scrutinizes several parameters to maintain a balance in the availability, wages and distribution in these jobs throughout the country. This dataset thus presents a fair estimation of different jobs category. In the absence of a more holistic dataset, I take a subset of this dataset to explore the trends in tech jobs between 2011 and 2016. I show that the prevailing wage and proposed wage differ significantly in different data-related job, and as well impact the H-1B certification by the Department of Labor.
